@@ -18,7 +18,7 @@ const Participation = loadable(() => import("./pages/Participation"));
 function App() {
 
   return (
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Routes>
           <Route exact path={"/"} element={<Main />} />
           <Route path={"/login1"} element={<Login1 />} />
