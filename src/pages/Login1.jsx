@@ -3,7 +3,7 @@ import ImgComponent from '../components/ImgComponent';
 function Login1() {
 
     const login2 = (e) => {
-        window.location.href = '/login2'
+        window.location.href = '/portfolio_react/login2'
       }
 
     function login(e) {

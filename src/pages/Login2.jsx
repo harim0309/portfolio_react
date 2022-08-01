@@ -10,7 +10,7 @@ let pstyle = {
 function Login2() {
 
     const login3 = (e) => {
-        window.location.href = '/login3'
+        window.location.href = '/portfolio_react/login3'
       }
     
 return (

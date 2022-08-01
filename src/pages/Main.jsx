@@ -6,19 +6,19 @@ import ImgComponent from "../components/ImgComponent";
 function Main() {
 
   const login1 = (e) => {
-    window.location.href = '/login1'
+    window.location.href = '/portfolio_react/login1'
   }
 
   const profile = (e) => {
-    window.location.href = '/guide'
+    window.location.href = '/portfolio_react/guide'
   }
 
   const menu = (e) => {
-    window.location.href = '/participation'
+    window.location.href = '/portfolio_react/participation'
   }
 
   const month = (e) => {
-    window.location.href = '/month'
+    window.location.href = '/portfolio_react/month'
   }
 
   return (

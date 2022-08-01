@@ -11,7 +11,7 @@ let pstyle = {
 function Login3() {
 
     const login2 = (e) => {
-        window.location.href = '/login2'
+        window.location.href = '/portfolio_react/login2'
       }
 return (
 <div className='loginWrap'>

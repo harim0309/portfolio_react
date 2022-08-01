@@ -17,11 +17,13 @@ const Participation = loadable(() => import("./pages/Participation"));
 
 function App() {
 
+  console.log(process.env.PUBLIC_URL);
+
   return (
       <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Routes>
           <Route exact path={"/"} element={<Main />} />
-          <Route exact path={"/login1"} element={<Login1 />} />
+          <Route path={"/login1"} element={<Login1 />} />
           <Route path={"/login2"} element={<Login2 />} />
           <Route path={"/login3"} element={<Login3 />} />
           <Route path={"/guide"} element={<Guide />} />

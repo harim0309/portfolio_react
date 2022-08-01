@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "https://harim0309.github.io/portfolio_react/static/css/main.672dd087.css",
-    "main.js": "https://harim0309.github.io/portfolio_react/static/js/main.19211735.js",
-    "static/js/865.79949189.chunk.js": "https://harim0309.github.io/portfolio_react/static/js/865.79949189.chunk.js",
-    "static/js/54.988a6b3e.chunk.js": "https://harim0309.github.io/portfolio_react/static/js/54.988a6b3e.chunk.js",
-    "static/js/657.ca573804.chunk.js": "https://harim0309.github.io/portfolio_react/static/js/657.ca573804.chunk.js",
-    "static/js/644.be594980.chunk.js": "https://harim0309.github.io/portfolio_react/static/js/644.be594980.chunk.js",
+    "main.js": "https://harim0309.github.io/portfolio_react/static/js/main.d5d45006.js",
+    "static/js/865.d22ef5ec.chunk.js": "https://harim0309.github.io/portfolio_react/static/js/865.d22ef5ec.chunk.js",
+    "static/js/54.c10a703a.chunk.js": "https://harim0309.github.io/portfolio_react/static/js/54.c10a703a.chunk.js",
+    "static/js/657.ed5b3f00.chunk.js": "https://harim0309.github.io/portfolio_react/static/js/657.ed5b3f00.chunk.js",
+    "static/js/644.9a02f08a.chunk.js": "https://harim0309.github.io/portfolio_react/static/js/644.9a02f08a.chunk.js",
     "static/js/497.b3c9d6f9.chunk.js": "https://harim0309.github.io/portfolio_react/static/js/497.b3c9d6f9.chunk.js",
     "static/js/694.6ed63dfc.chunk.js": "https://harim0309.github.io/portfolio_react/static/js/694.6ed63dfc.chunk.js",
     "static/js/958.a13685b4.chunk.js": "https://harim0309.github.io/portfolio_react/static/js/958.a13685b4.chunk.js",
@@ -20,11 +20,11 @@
     "static/media/SCDream4.otf": "https://harim0309.github.io/portfolio_react/static/media/SCDream4.64c9dc7c860af7a004ad.otf",
     "index.html": "https://harim0309.github.io/portfolio_react/index.html",
     "main.672dd087.css.map": "https://harim0309.github.io/portfolio_react/static/css/main.672dd087.css.map",
-    "main.19211735.js.map": "https://harim0309.github.io/portfolio_react/static/js/main.19211735.js.map",
-    "865.79949189.chunk.js.map": "https://harim0309.github.io/portfolio_react/static/js/865.79949189.chunk.js.map",
-    "54.988a6b3e.chunk.js.map": "https://harim0309.github.io/portfolio_react/static/js/54.988a6b3e.chunk.js.map",
-    "657.ca573804.chunk.js.map": "https://harim0309.github.io/portfolio_react/static/js/657.ca573804.chunk.js.map",
-    "644.be594980.chunk.js.map": "https://harim0309.github.io/portfolio_react/static/js/644.be594980.chunk.js.map",
+    "main.d5d45006.js.map": "https://harim0309.github.io/portfolio_react/static/js/main.d5d45006.js.map",
+    "865.d22ef5ec.chunk.js.map": "https://harim0309.github.io/portfolio_react/static/js/865.d22ef5ec.chunk.js.map",
+    "54.c10a703a.chunk.js.map": "https://harim0309.github.io/portfolio_react/static/js/54.c10a703a.chunk.js.map",
+    "657.ed5b3f00.chunk.js.map": "https://harim0309.github.io/portfolio_react/static/js/657.ed5b3f00.chunk.js.map",
+    "644.9a02f08a.chunk.js.map": "https://harim0309.github.io/portfolio_react/static/js/644.9a02f08a.chunk.js.map",
     "497.b3c9d6f9.chunk.js.map": "https://harim0309.github.io/portfolio_react/static/js/497.b3c9d6f9.chunk.js.map",
     "694.6ed63dfc.chunk.js.map": "https://harim0309.github.io/portfolio_react/static/js/694.6ed63dfc.chunk.js.map",
     "958.a13685b4.chunk.js.map": "https://harim0309.github.io/portfolio_react/static/js/958.a13685b4.chunk.js.map",
@@ -34,6 +34,6 @@
   },
   "entrypoints": [
     "static/css/main.672dd087.css",
-    "static/js/main.19211735.js"
+    "static/js/main.d5d45006.js"
   ]
 }
