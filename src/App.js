@@ -17,16 +17,18 @@ const Participation = loadable(() => import("./pages/Participation"));
 
 function App() {
 
+  // const base = process.env.REACT_APP_BASE_URL;
+
   return (
-      <BrowserRouter basename={process.env.PUBLIC_URL}>
+      <BrowserRouter>
         <Routes>
-          <Route exact path={"/"} element={<Main />} />
+          <Route path={"/portfolio_react/"} element={<Main />} />
           <Route path={"/portfolio_react/login1"} element={<Login1 />} />
-          <Route path={"/login2"} element={<Login2 />} />
-          <Route path={"/login3"} element={<Login3 />} />
-          <Route path={"/guide"} element={<Guide />} />
-          <Route path={"/month"} element={<Month />} />
-          <Route path={"/participation"} element={<Participation />} />
+          <Route path={"/portfolio_react/login2"} element={<Login2 />} />
+          <Route path={"/portfolio_react/login3"} element={<Login3 />} />
+          <Route path={"/portfolio_react/guide"} element={<Guide />} />
+          <Route path={"/portfolio_react/month"} element={<Month />} />
+          <Route path={"/portfolio_react/participation"} element={<Participation />} />
         </Routes>
     </BrowserRouter>
   );
