@@ -21,7 +21,7 @@ function App() {
       <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Routes>
           <Route exact path={"/"} element={<Main />} />
-          <Route path={"/login1"} element={<Login1 />} />
+          <Route path={process.env.PUBLIC_URL+"/login1"} element={<Login1 />} />
           <Route path={"/login2"} element={<Login2 />} />
           <Route path={"/login3"} element={<Login3 />} />
           <Route path={"/guide"} element={<Guide />} />
